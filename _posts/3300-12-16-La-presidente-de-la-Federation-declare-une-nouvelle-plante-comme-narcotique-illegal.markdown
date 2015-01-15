@@ -2,7 +2,7 @@
 layout: post
 title:  "La présidente de la Fédération déclare une nouvelle plante comme narcotique illégal"
 date:   3300-12-16
-categories: empire
+categories: fédération
 ---
 La présidente de la Fédération Jasmina Halsey a déclaré que le narcotique Onionhead* découvert récemment serait considéré comme illégal au sein de l'espace Fédéral. Onionhead est le fruit d'une plante extraterrestre, poussant seulement sur Panel dans le système autonome Kappa Fornacis.
 
