@@ -12,3 +12,15 @@ github_username:  tbolon
 # Build settings
 markdown: kramdown
 highlighter: pygments
+
+# plugins
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+
+collections:
+    pages:
+        output: true
+        
