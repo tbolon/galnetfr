@@ -4,8 +4,7 @@ title:  "L'amiral Vincent déclare le blocus de Kappa Fornacis"
 date:   3300-12-19
 categories: galnet
 ---
-L'amiral fédéral Vincent a annoncé le blocage du système Kappa Fornacis pour
-empêcher la diffusion du narcotique Onionhead*.
+L'amiral fédéral [Vincent]({{ site.base_url }}/people/amiral-vincent.html) a annoncé le blocage du système [Kappa Fornacis]({{site.base_url}}/geo/kappa-fornacis.html) pour empêcher la diffusion du narcotique Onionhead*.
 
 Après une réunion à l'amirauté à Quenisset sur Mars, il a répondu aux questions
 de quelques journalistes qui l’attendaient.

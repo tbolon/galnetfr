@@ -21,6 +21,7 @@ gems:
 - jekyll-sitemap
 
 collections:
-    pages:
+    people:
         output: true
-        
+    geo:
+        output: true
