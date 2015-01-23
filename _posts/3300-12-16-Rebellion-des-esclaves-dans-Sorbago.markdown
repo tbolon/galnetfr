@@ -2,7 +2,7 @@
 layout: post
 title:  "Rébellion des esclaves dans Sorbago"
 date:   3300-12-16
-categories: empire
+categories: galnet
 ---
 Les rumeurs faisant état d'une rébellion d'esclaves dans le système Sorbago ont été confirmées. Dans un discours aux dirigeants d'entreprises, la sénatrice pro-esclavagisme Zemina Torval a réfuté avoir envoyée deux de ses Interdicteurs personnels de classe Majestic, le Boudica et l'Elizabeth pour mater la révolte, mais a ajouté "qu'ils ont été envoyés vers Sorbago pour aider les sociétés minières locales à maintenir la paix et maintenir éloignées les forces extérieures qui tentent d'instaurer un conflit.".
 
