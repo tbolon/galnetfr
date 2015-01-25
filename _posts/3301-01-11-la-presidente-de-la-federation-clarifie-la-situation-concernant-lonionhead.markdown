@@ -4,7 +4,7 @@ title:  "La présidente de la Fédération clarifie la sitation concernant l’O
 date:   3301-01-11
 categories: galnet
 ---
-Dans une tentative pour dissiper la revendication de sa démission, la présidente [Jasmina Halsey]({{ site.base_url }}/people/jasmina-halsey.html) a tenté de clarifier le désaccord entre l’amiral de la flotte, l’amiral [Vincent]({{ site.base_url }}/people/amiral-vincent.html) et son cabinet.
+Dans une tentative pour dissiper la revendication de sa démission, la présidente Jasmina Halsey a tenté de clarifier le désaccord entre l’amiral de la flotte, l’amiral Vincent et son cabinet.
 
 “L’amiral Vincent dirige notre marine, et je dirige le gouvernement. De temps en temps, il me fait parvenir un rapport sur les opérations navales, et nous nous entretenons sur les points importants pour la Fédération. Concernant les évènements dans Kappa Fornacis l’amiral a agi de manière unilatérale, et à simplement rapporté ses actions après que les ordres n’aient été donnés. Mon rôle n’est pas d'interférer avec les opérations navales, mais j’estime devoir être consultées lorsque des décisions d’une telle importance sont prises.”
 

@@ -4,7 +4,7 @@ title:  "Répercussions de la rébellion des esclaves dans Sorbago"
 date:   3301-01-10
 categories: galnet
 ---
-La nuit dernière c’est une sénatrice [Zemina Torval]({{ site.base_url }}/people/zemina-torval.html) détendue qui a annoncé ce qui était arrivé aux leaders de la rébellion de Sorbago à la presse suite à son retour de vacances -
+La nuit dernière c’est une sénatrice Zemina Torval détendue qui a annoncé ce qui était arrivé aux leaders de la rébellion de Sorbago à la presse suite à son retour de vacances -
 Last night a relaxed-looking Senator Zemina Torval announced what had happened to the leaders of the Sorbago rebellion in a press conference following the return from her holiday cruise-
 
 “Nous avons réussi à tenir tête face aux agitateurs grâce au support de nombreux pilotes indépendants combattants en faveur de la tradition honorable que constitue l’esclavagisme Impérial, et je souhaite leur adresses mes remerciements.”

@@ -10,6 +10,6 @@ Un porte-parole de Mastopolos Mining Incorporated, chargé de l'exploitation de 
 
 "Nos forces de sécurité ont intercepté des vaisseaux provenant de l'extérieur du système et apportant des armes aux rebelles. Cela déstabilise nos forces, et doit cesser."
 
-La sénatrice [Torval]({{ site.base_url }}/people/zemina-torval.html), actionnaire majoritaire de Mastopolos, a envoyé quelques uns de ses vaisseaux de guerre privés vers le système.
+La sénatrice Torval, actionnaire majoritaire de Mastopolos, a envoyé quelques uns de ses vaisseaux de guerre privés vers le système.
 Elle a aussi accru significativement son aide vers ceux qui l'aident dans la lutte contre "ces agitateurs".
 n parallèle, le prix des minerai a grimpé dans la zone.

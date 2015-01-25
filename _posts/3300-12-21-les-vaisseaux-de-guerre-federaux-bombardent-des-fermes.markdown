@@ -7,7 +7,7 @@ categories: galnet
 Les histoires à propos de l'Onionhead* dominent les médias fédéraux, plus particulièrement concernant la criminalité des jeunes.
 Cette couverture médiatique a provoqué une hausse de la demande dans l'espace fédéral pour ce narcotique dans des proportions plus fortes que jamais.
 
-L'amiral [Vincent]({{ site.base_url }}/people/amiral-vincent.html) a annoncé un programme de destruction des cultures depuis l'orbite basse de [Panem]({{site.base_url}}/geo/panem.html) -
+L'amiral Vincent a annoncé un programme de destruction des cultures depuis l'orbite basse de Panem -
 
 "Des bombardiers, lancés depuis nos cuirassés de classe Farragut en orbite ont bombardés de larges zones de cultures.
 Nous avons utilisés des armes à ciblage moderne, et aucun humain n'a été blessé lors de ces attaques."

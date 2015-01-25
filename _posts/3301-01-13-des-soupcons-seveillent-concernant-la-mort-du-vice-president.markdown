@@ -4,7 +4,7 @@ title:  "Des soupçons s’éveillent concernant la mort du vice-président"
 date:   3301-01-13
 categories: galnet
 ---
-De récentes révélations ont semé le doute concernant la crise cardiaque qui aurait été la cause de la mort du vice-président [Smeaton]({{ site.base_url }}/people/nigel-smeaton.html).
+De récentes révélations ont semé le doute concernant la crise cardiaque qui aurait été la cause de la mort du vice-président Smeaton.
 
 Des données obtenues sur les systèmes de sécurité de ses appartements indiqueraient qu’ils ne fonctionnaient pas à ce moment. On aurait découvert qu’il avait effectué un scan médical complet avec succès à l’aide de son scanner privé une heure seulement avant sa mort.
 
