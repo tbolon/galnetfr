@@ -8,6 +8,7 @@ baseurl: "/galnetfr" # the subpath of your site, e.g. /blog/
 url: "http://tbolon.github.io" # the base hostname & protocol for your site
 twitter_username: styx31
 github_username:  tbolon
+permalink: /:year-:month-:day-:title.html
 
 # Build settings
 markdown: kramdown
